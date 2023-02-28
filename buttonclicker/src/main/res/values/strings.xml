@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ButtonClicker</string>
+    <string name="tvout">TvOut</string>
+    <string name="who_am_i">Who am I</string>
+    <string name="not_me">Not me</string>
+    <string name="it_s_not_me">It\'s not me</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="textview1">TextView</string>
+    <string name="button1">Button</string>
+    <string name="button3">Button</string>
+</resources>

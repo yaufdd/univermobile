@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">control_lesson1</string>
+    <string name="this_is_butterfly_baby">This is butterfly baby</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="button">Button</string>
+    <string name="press">Press</string>
+    <string name="i_am_human">I am human</string>
+    <string name="button3">Button</string>
+</resources>

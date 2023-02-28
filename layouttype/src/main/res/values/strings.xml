@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="salam">salam</string>
+    <string name="hello_text">Hello Text</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="now_it_s_in_middle">Now it\'s in middle</string>
+    <string name="new_life_for_mirea_activity">New life for mirea activity!</string>
+    <string name="new_life_for_mirea_acitivity">New life for mirea acitivity!</string>
+</resources>
