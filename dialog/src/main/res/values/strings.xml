@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="my_date_dialog_fragment">My Date Dialog Fragment</string>
+    <string name="my_progress_dialog_fragment">My Progress Dialog Fragment</string>
+</resources>
