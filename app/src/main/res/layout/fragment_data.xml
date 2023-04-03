@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3AB63F"
+    tools:context=".DataFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="-10dp"
+        android:src="@drawable/big_canion" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Большой каньон"
+        android:textColor="#C31717"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginRight="10dp"
+        android:text="это уникальное природное образование. На красных скалах проступают полосы геологических слоев, демонстрирующие миллионы лет земной истории в поперечном сечении. Огромный по своей площади каньон простирается на 446 км, его ширина колеблется от 6 до 29 км, а глубина составляет до 1,8 км. Большая часть этой территории входит в состав национального парка. Здесь можно полюбоваться быстрыми порогами реки Колорадо и потрясающими видами."
+        android:textSize="20sp" />
+
+</FrameLayout>
