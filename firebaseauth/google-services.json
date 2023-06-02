@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362953980725",
+    "project_id": "lesson7-4ad78",
+    "storage_bucket": "lesson7-4ad78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362953980725:android:4e5906f16c1d2aaadf2a7c",
+        "android_client_info": {
+          "package_name": "ru.mirea.bamba.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362953980725-o2pk5cbn43pko0qmn8mm5efbguqmgn1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_tp5afVm-nRKrPBW5dbbo_1kJjY6x4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362953980725-o2pk5cbn43pko0qmn8mm5efbguqmgn1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

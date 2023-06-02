@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8E8C8C"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270sp"
+            android:src="@drawable/image00"
+            app:srcCompat="@drawable/image00"
+            tools:srcCompat="@drawable/image00" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="120sp"
+            android:text="Email and Password "
+            android:textAlignment="center"
+            android:textColor="#100E0E"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/statusTextView"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20sp"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20sp"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/detailTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250sp"
+        android:layout_alignParentBottom="true"
+        android:background="#8D8B8B"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/emailPasswordFields"
+                android:layout_width="150sp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="25sp"
+                android:hint="email"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/passwordEdit"
+                android:layout_width="150sp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="25sp"
+                android:hint="password"
+                android:textAlignment="center" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/signedInButtons"
+                android:layout_width="175dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Sign In" />
+
+            <Button
+                android:id="@+id/emailPasswordButtons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Create account " />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinerLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="invisible">
+
+            <Button
+                android:id="@+id/verifyEmailButton"
+                android:layout_width="102dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Verification" />
+
+            <Button
+                android:id="@+id/signedOutButtons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Sign Out" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
