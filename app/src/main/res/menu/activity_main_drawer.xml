@@ -24,5 +24,9 @@
             android:id="@+id/webViewFragment"
             android:icon="@drawable/ic_launcher_background"
             android:title="WebViewFragment"/>
+        <item
+            android:id="@+id/mediaFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="MediaFragment"/>
     </group>
 </menu>

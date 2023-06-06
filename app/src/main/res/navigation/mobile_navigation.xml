@@ -32,4 +32,9 @@
         android:name="ru.mirea.bamba.mireaproject.WebViewFragment"
         android:label="fragment_web_view"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/mediaFragment"
+        android:name="ru.mirea.bamba.mireaproject.MediaFragment"
+        android:label="fragment_media"
+        tools:layout="@layout/fragment_media" />
 </navigation>
