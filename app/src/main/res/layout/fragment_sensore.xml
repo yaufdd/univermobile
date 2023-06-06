@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SensorFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="204dp"
+        android:layout_height="81dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="300dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="197dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="224dp"
+        android:layout_height="87dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="500dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="240dp"
+        android:layout_height="111dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="600dp"
+        android:text="@string/hello_blank_fragment" />
+
+</FrameLayout>

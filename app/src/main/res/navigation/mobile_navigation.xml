@@ -37,4 +37,14 @@
         android:name="ru.mirea.bamba.mireaproject.MediaFragment"
         android:label="fragment_media"
         tools:layout="@layout/fragment_media" />
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="ru.mirea.bamba.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/recordFragment"
+        android:name="ru.mirea.bamba.mireaproject.RecordFragment"
+        android:label="fragment_record"
+        tools:layout="@layout/fragment_record" />
 </navigation>

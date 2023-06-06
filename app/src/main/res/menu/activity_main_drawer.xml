@@ -28,5 +28,17 @@
             android:id="@+id/mediaFragment"
             android:icon="@drawable/ic_launcher_background"
             android:title="MediaFragment"/>
+        <item
+            android:id="@+id/sensorFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="SensorFragment"/>
+        <item
+            android:id="@+id/cameraFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="CameraFragment"/>
+        <item
+            android:id="@+id/recordFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="RecordFragment"/>
     </group>
 </menu>
