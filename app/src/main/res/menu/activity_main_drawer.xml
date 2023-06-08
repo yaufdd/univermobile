@@ -40,5 +40,13 @@
             android:id="@+id/recordFragment"
             android:icon="@drawable/ic_launcher_background"
             android:title="RecordFragment"/>
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="ProfileFragment"/>
+        <item
+            android:id="@+id/fileFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="FileFragment"/>
     </group>
 </menu>
