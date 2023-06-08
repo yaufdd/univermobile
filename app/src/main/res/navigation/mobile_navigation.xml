@@ -67,5 +67,10 @@
         android:name="ru.mirea.bamba.mireaproject.InternetFragment"
         android:label="fragment_internet"
         tools:layout="@layout/fragment_http"/>
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="ru.mirea.bamba.mireaproject.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map"/>
 
 </navigation>

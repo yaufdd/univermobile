@@ -56,5 +56,9 @@
             android:id="@+id/internetFragment"
             android:icon="@drawable/ic_launcher_background"
             android:title="InternetFragment"/>
+        <item
+            android:id="@+id/mapFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="MapFragment"/>
     </group>
 </menu>
