@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665029142321",
+    "project_id": "mireaproject-67634",
+    "storage_bucket": "mireaproject-67634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665029142321:android:934b39546dc8164c5c3210",
+        "android_client_info": {
+          "package_name": "ru.mirea.bamba.mireaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665029142321-f1d1v9rb2il6goo2b2f8gnq8pn2g6iq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrGrnIjCDDQCPsOoU5RySzm10LG5gL8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665029142321-f1d1v9rb2il6goo2b2f8gnq8pn2g6iq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

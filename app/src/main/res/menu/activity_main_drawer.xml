@@ -48,5 +48,13 @@
             android:id="@+id/fileFragment"
             android:icon="@drawable/ic_launcher_background"
             android:title="FileFragment"/>
+        <item
+            android:id="@+id/firebaseFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="FirebaseFragment"/>
+        <item
+            android:id="@+id/internetFragment"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="InternetFragment"/>
     </group>
 </menu>

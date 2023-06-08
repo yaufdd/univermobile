@@ -57,4 +57,15 @@
         android:name="ru.mirea.bamba.mireaproject.FileFragment"
         android:label="fragment_file"
         tools:layout="@layout/fragment_file"/>
+    <fragment
+        android:id="@+id/firebaseFragment"
+        android:name="ru.mirea.bamba.mireaproject.FirebaseFragment"
+        android:label="fragment_firebase"
+        tools:layout="@layout/fragment_firebase2"/>
+    <fragment
+        android:id="@+id/internetFragment"
+        android:name="ru.mirea.bamba.mireaproject.InternetFragment"
+        android:label="fragment_internet"
+        tools:layout="@layout/fragment_http"/>
+
 </navigation>
